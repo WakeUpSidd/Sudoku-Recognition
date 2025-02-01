@@ -18,7 +18,7 @@ This project includes two main scripts:
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - OpenCV
 - Numpy
 - Webbrowser
